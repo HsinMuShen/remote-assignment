@@ -53,7 +53,7 @@ header nav ul li a {
 main section.backImage {
   min-height: 80vh;
   width: 90vw;
-  background-image: url(/pictures/homepage/welcome.svg);
+  background-image: url(../pictures/homepage/welcome.svg);
   background-size: cover;
   background-position: center;
   margin: 0 auto;
